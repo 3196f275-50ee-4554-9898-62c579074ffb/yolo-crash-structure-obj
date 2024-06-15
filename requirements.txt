@@ -1,0 +1,4 @@
+ultralytics
+roboflow
+torch==1.12.0+cpu
+torchvision==0.13.0+cpu -f https://download.pytorch.org/whl/metal.html

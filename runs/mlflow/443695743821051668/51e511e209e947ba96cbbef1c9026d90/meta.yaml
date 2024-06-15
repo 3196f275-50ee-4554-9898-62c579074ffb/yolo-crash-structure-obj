@@ -1,0 +1,15 @@
+artifact_uri: /Users/darius/Documents/projects/building_crack_object_detection/runs/mlflow/443695743821051668/51e511e209e947ba96cbbef1c9026d90/artifacts
+end_time: 1718450187965
+entry_point_name: ''
+experiment_id: '443695743821051668'
+lifecycle_stage: active
+run_id: 51e511e209e947ba96cbbef1c9026d90
+run_name: FirstTrain
+run_uuid: 51e511e209e947ba96cbbef1c9026d90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718450124386
+status: 3
+tags: []
+user_id: darius
